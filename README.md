@@ -6,9 +6,13 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ##Step 1: Import the NumPy library using import numpy as np.
+
 ##Step 2: Define the square matrix using np.array().
+
 ##Step 3: Use the function np.linalg.eig() to compute the eigenvalues and eigenvectors of the matrix.
+
 ##Step 4: Display the obtained eigenvalues and eigenvectors.
+
  That’s it. Four steps. Simple and mathematically honest.
 
 ## Program:
